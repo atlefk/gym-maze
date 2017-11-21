@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-pip install git+https://github.com/CAIR-UIA/DeepMaze.git
+pip install git+https://github.com/UIA-CAIR/gym-maze.git
 ```
 
 ## Basic Usage
